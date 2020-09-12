@@ -12,7 +12,7 @@
     "joined": "Beigetreten",
     "sessionPlaytime": "Sitzungsspielzeit",
     "totalPlaytime": "Gesamte Spielzeit",
-    "factionJoined": "Fraktion beigetreten",
+    "factionJoined": "Gilde beigetreten",
 
     "balance": "Konto:",
     "itemCount": ":x:/:max: ITEMS",
@@ -27,17 +27,17 @@
 
     "assets": "VERMÖGEN",
 
-    "createFaction": "Fraktion erstellen",
-    "joinFaction": "Fraktion beitreten",
+    "createFaction": "Gilde erstellen",
+    "joinFaction": "Gilde beitreten",
     
-    "createFactionOrJoin": "INFORMATION ZU DEN FRAKTIONEN",
-    "noFactionText": "Du kannst entweder eine neue Fraktion gründen und deren Leiter sein oder dich einer bestehenden Fraktion anschließen",
-    "factionCreateCost": "Das Erstellen einer Fraktion kostet :color: :money:.",
+    "createFactionOrJoin": "INFORMATION ZU DEN GILDEN",
+    "noFactionText": "Du kannst entweder eine neue Gilde gründen und deren Leiter sein oder dich einer bestehenden Gilde anschließen",
+    "factionCreateCost": "Das Erstellen einer Gilde kostet :color: :money:.",
 
     "select": "Wählen",
     "create": "Erstellen",
 
-    "factions": "Fraktionen",
+    "factions": "Gilden",
     "dynamic": "Dynamisch",
     "static": "Statisch",
 
@@ -48,22 +48,22 @@
     "levelUpMsg": "Du bist jetzt Level :level:",
 
     "chooseMode": "WÄHLE deinen Modus",
-    "chooseFaction": "WÄHLE deine Fraktion",
+    "chooseFaction": "WÄHLE deine Gilde",
 
     "suitedForSerious": "Geeignet für SeriousRP",
     "suitedForNonSerious": "Geeignet für Non-SeriousRP",
 
-    "addFaction": "Erstelle eine neue Fraktion",
+    "addFaction": "Erstelle eine neue Gilde",
     "addRank": "Neuer Rang",
     "addMember": "Mitglied hinzufügen",
 
-    "newFaction": "Neue Fraktion",
+    "newFaction": "Neue Gilde",
     "newRank": "Neuer Rang",
 
-    "faction": "Fraktion",
-    "factionName": "Fraktionsname",
+    "faction": "Gilde",
+    "factionName": "Gildenname",
 
-    "editFaction": "Bearbeite die Fraktion :name:",
+    "editFaction": "Bearbeite die Gilde :name:",
     "editRank": "Bearbeite den Rang :name:",
     "editUpgrade": "Bearbeite die Verbesserung :name:",
     "editReward": "Bearbeite die Belohnung :name:",
@@ -76,17 +76,17 @@
 
     "name": "Name",
     "description": "Beschreibung",
-    "factionTag": "FRAKTIONSKÜRZEL",
+    "factionTag": "GILDENKÜRZEL",
     "subfactionOf": "Unterfraktion von",
-    "factionColor": "Fraktionsfarbe",
+    "factionColor": "Gildenfarbe",
     "icon": "Symbol",
-    "factionIcon": "Fraktionssymbol",
+    "factionIcon": "Gildensymbol",
     "maxMembers": "Max. Mitglieder",
 
     "canCaptureTerritory": "Kann Gebiet erobern",
     "showOnBoard": "Am Board anzeigen",
     "inviteRequired": "Einladung benötigt",
-    "isDefaultFaction": "Ist die Standardfraktion",
+    "isDefaultFaction": "Ist die Standardgilde",
 
     "inviteOnly": "Nur durch Einladung",
 
@@ -131,7 +131,7 @@
 
     "setRanks": "Ränge setzen",
 
-    "manageFaction": "Fraktion verwalten",
+    "manageFaction": "Gilde verwalten",
     "purchaseUpgrades": "Verbesserungen kaufen",
 
     "canWithdrawMoney": "Geld auszahlen",
@@ -148,8 +148,8 @@
     "yes": "Ja",
     "no": "Nein",
 
-    "onlyFactionMembers": "Nur Fraktionsmitglieder",
-    "factionAndSubfactions": "Fraktion und Unterfraktionen",
+    "onlyFactionMembers": "Nur Gildenmitglieder",
+    "factionAndSubfactions": "Gilde und Unterfraktionen",
     "minimumLevel": "Mindestlevel",
 
     "upgradeCreated": "Erfolgreich die Verbesserung :name: erstellt!",
@@ -302,7 +302,7 @@
     "deleteFactionPrompt": "Bist du dir sicher, dass du die Fraktion :faction: löschen möchtest? Diese Aktion ist unumkehrbar!",
     "disbandFactionPrompt": "Bist du dir sicher, dass du deine Fraktion auflöschen möchtest? Diese Aktion ist unumkehrbar!",
 
-    "disbandFaction": "FRAKTION AUFLÖSEN",
+    "disbandFaction": "GILDE AUFLÖSEN",
 
     "switch": "Wechseln",
     "switchType": "Wechsle Fraktionstyp",
